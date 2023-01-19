@@ -25,11 +25,7 @@ The block diagram for the mod 3 synchronous counter is shown below:
 
 ## Truth Table/Excitation Table: 
 The truth table for the mod 3 synchronous counter is given below:
-
-Current State	Next State	Q0	Q1
-Q0 = 0, Q1 = 0	Q0 = 1, Q1 = 0	1	0
-Q0 = 1, Q1 = 0	Q0 = 0, Q1 = 1	0	1
-Q0 = 0, Q1 = 1	Q0 = 0, Q1 = 0	0	0
+![Truth Table/Excitation Table](./Screenshot%201.jpg)
 
 ## Explanation: 
 The mod 3 synchronous counter counts the number of input pulses applied to it. The counter starts counting from 0 and increments the count by 1 with each input pulse. When the count reaches 2, it resets to 0 and starts counting again. The truth table shows the current state and next state of the counter with each input pulse.
