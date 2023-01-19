@@ -12,6 +12,7 @@ A counter is a sequential logic circuit that counts the number of input pulses a
 
 ## Logic Diagram: 
 The logic diagram for the mod 3 synchronous counter is shown below:
+
 ![Logic Diagram](./download.png)
 
 ## Logical Expression: 
@@ -21,10 +22,12 @@ Q1 = Q0
 
 ## Block Diagram: 
 The block diagram for the mod 3 synchronous counter is shown below:
+
 ![Block Diagram](./modulo-3-counter-circuit.gif)
 
 ## Truth Table/Excitation Table: 
 The truth table for the mod 3 synchronous counter is given below:
+
 ![Truth Table/Excitation Table](./Screenshot%201.jpg)
 
 ## Explanation: 
